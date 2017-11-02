@@ -1,12 +1,25 @@
-##Learning React
+## Installation
 
-##Installation:
-``
+```
 clone this repo
-``
-``
+
+```
+
+```
 cd into the api directory
-``
-``
-npm install
-``
+
+```
+``` 
+npm install 
+```
+
+## Start React App
+
+``` 
+cd app 
+
+```
+
+```
+npm start
+```
