@@ -11,7 +11,7 @@ class Header extends Component{
 
             <div className={'app-site-info'}>
                 <h1><i className={'icon-paper-plane'} /> SHARE</h1>
-                <div className={'site-title'}>Share Yo Files.</div>
+                <div className={'site-title'}>Share Your Files.</div>
                 <div className={'site-slogan'}>Courtesy of Ryan Sheehan</div>
             </div>
         </div>)

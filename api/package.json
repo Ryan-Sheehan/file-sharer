@@ -9,7 +9,7 @@
     "start": "node dist",
     "prestart": "npm run -s build",
     "test": "eslint src",
-    "deploy" : "npm run build&&gh-pages -d build"
+    "deploy": "npm run build&&gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "eslint:recommended",
