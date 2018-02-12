@@ -17,7 +17,7 @@
     "eject": "react-scripts eject",
     "deploy": "npm run build&&gh-pages -d build"
   },
-  "homepage": "http://Ryan-Sheehan.github.io/file-sharer",
+  "homepage": "http://Ryan-Sheehan.github.io/react-file-sharer",
   "devDependencies": {
     "react": "^16.0.0",
     "react-dom": "^16.0.0",
